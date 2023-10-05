@@ -1,10 +1,4 @@
----
-author: "Ahmed M. Abouelkher"
-title: "My First Post"
-date: 2023-10-05T13:09:21+03:00
-draft: false
-favorite: true
----
+# Ahmed M. Abouelkher Blog
 
 Reading technical blogs to fix an issue of mine has become a habit, reading the docs and the source code is the best way to fix my issues, but still I find myself reading blogs to get a better understanding of the issue.
 

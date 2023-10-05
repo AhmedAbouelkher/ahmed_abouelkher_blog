@@ -11,9 +11,9 @@ name = "Ahmed M. Abouelkher"
 
 [params]
 author = "Ahmed M. Abouelkher"
-email = "mail@example.org"
+email = "ahmedabouelkher1@gmail.com"
 description = "I'm an Electrical Engineering Student who loves coding, problem-solving and creating software that helps people."
-avatar = "ahmedabouelkher1@gmail.com"
+avatar = ""
 dateFormat = "2006-01-02"
 paginationSinglePost = true
 style = "dark"
@@ -35,6 +35,10 @@ url = "https://www.linkedin.com/in/ahmed-m-abouelkher-609b951a5/"
 [[params.social]]
 id = "twitter"
 url = "https://twitter.com/ahmedmabouelkhr"
+
+[[params.social]]
+id = "email"
+url = "mailto:ahmedabouelkher1@gmail.com"
 
 # [params]
 # Name = "Ahmed M. Abouelkher"
