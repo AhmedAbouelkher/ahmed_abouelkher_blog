@@ -1,24 +1,57 @@
 baseURL = 'https://ahmedabouelkher.me'
 languageCode = 'en-us'
-title = 'Ahmed Abouelkher Blog'
-theme = "lekh"
+title = 'Ahmed M. Abouelkher Blog'
+theme = "anubis"
+paginate = 3
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[author]
+name = "Ahmed M. Abouelkher"
 
 [params]
-Name = "Ahmed Mahmoud"
-About = "I'm an Electrical Engineering Student who loves coding, problem-solving and creating software that helps people. "
-Email = "ahmedabouelkher1@gmail.com"
-Resume = "" # Add the filename with file extension.
-PostLimit = 10 # Sets the number of posts to display on the front page
+author = "Ahmed M. Abouelkher"
+email = "mail@example.org"
+description = "I'm an Electrical Engineering Student who loves coding, problem-solving and creating software that helps people."
+avatar = "ahmedabouelkher1@gmail.com"
+dateFormat = "2006-01-02"
+paginationSinglePost = true
+style = "dark"
+readMore = false
+readNextPosts = 2
+copyCodeButton = true
+rssAsSocialIcon = true
+mathjax = false
 GoatCounterCode = "https://ahmedabouelkher.goatcounter.com/count"
 
-[[params.profiles]]
-name = "GitHub"
+[[params.social]]
+id = "github"
 url = "https://github.com/AhmedAbouelkher"
 
-[[params.profiles]]
-name = "Twitter"
+[[params.social]]
+id = "linkedin"
+url = "https://www.linkedin.com/in/ahmed-m-abouelkher-609b951a5/"
+
+[[params.social]]
+id = "twitter"
 url = "https://twitter.com/ahmedmabouelkhr"
 
-[[params.profiles]]
-name = "LinkedIn"
-url = "https://www.linkedin.com/in/ahmed-m-abouelkher-609b951a5/"
+# [params]
+# Name = "Ahmed M. Abouelkher"
+# About = "I'm an Electrical Engineering Student who loves coding, problem-solving and creating software that helps people."
+# Email = "ahmedabouelkher1@gmail.com"
+# Resume = "" # Add the filename with file extension.
+# PostLimit = 10 # Sets the number of posts to display on the front page
+# GoatCounterCode = "https://ahmedabouelkher.goatcounter.com/count"
+
+# [[params.profiles]]
+# name = "GitHub"
+# url = "https://github.com/AhmedAbouelkher"
+
+# [[params.profiles]]
+# name = "Twitter"
+# url = "https://twitter.com/ahmedmabouelkhr"
+
+# [[params.profiles]]
+# name = "LinkedIn"
+# url = "https://www.linkedin.com/in/ahmed-m-abouelkher-609b951a5/"
